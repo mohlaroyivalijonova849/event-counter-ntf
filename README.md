@@ -1,2 +1,2 @@
 # event-counter-ntf
-counter-ntf-m.netlify.app
+https://counter-ntf-m.netlify.app/
